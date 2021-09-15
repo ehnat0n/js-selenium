@@ -1,0 +1,22 @@
+{
+  "name": "wdio-mocha-sss-pom",
+  "version": "1.0.0",
+  "description": "WebdriverIO, Mocha, Selenium Standalone Server, Page Object Model setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx wdio run ./wdio.conf.js",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^7.11.1"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.11.1",
+    "@wdio/mocha-framework": "^7.11.1",
+    "@wdio/selenium-standalone-service": "^7.10.1",
+    "@wdio/spec-reporter": "^7.10.1"
+  }
+}

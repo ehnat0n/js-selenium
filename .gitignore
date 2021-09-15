@@ -1,0 +1,10 @@
+# Screens with interesting/unusual results for comparison/research
+screenshots/
+
+#node_modules
+mocha-swd/node_modules/
+wdio-mocha-sss-pom/node_modules/
+
+#package-locks
+mocha-swd/package-lock.json
+wdio-mocha-sss-pom/package-lock.json

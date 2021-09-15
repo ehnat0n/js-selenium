@@ -1,0 +1,17 @@
+{
+  "name": "mocha-swd",
+  "version": "1.0.0",
+  "description": "Mocha and Selenium WebDriver setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -t 20000",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.1",
+    "selenium-webdriver": "^4.0.0-rc-1"
+  }
+}
