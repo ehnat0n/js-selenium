@@ -1,6 +1,6 @@
 # JavaScript & Selenium personal playground
 
-Two setups to compare.
+Two setups to compare. Made public just to share code without collaboration.
 
 ## 1. Mocha and Selenium WebDriver
 
